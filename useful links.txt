@@ -1,0 +1,5 @@
+1.https://github.com/trineshreddy/Competitive-Programming-1 (templates and some problems code)
+2.https://github.com/trineshreddy/ProAlgos-Cpp              (templates and some problems code)
+3.https://github.com/trineshreddy/youtube                    (errichto github)
+4.https://github.com/trineshreddy/cp-templates               (collin gallen)
+5.https://github.com/trineshreddy/SDE-Interview-Questions    (all company interview questions)
